@@ -1,7 +1,7 @@
 # Year2-Sem2-Portfolio
 # A portfolio showcasing my CSF projects and assignments from NP.
 
-**Name:** [Cloe Lim]  
+**Name:** Cloe Lim
 **Program:** Diploma in Cybersecurity & Digital Forensics  
 **Institution:** Ngee Ann Polytechnic, Singapore  
 **Year:** 2 (2025/26)
