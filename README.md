@@ -32,11 +32,11 @@ Static analysis of a suspicious executable, including PE structure examination, 
 
 ## Course Context
 These projects were completed as part of:
-- **Network Security** (Semester 3)
-- **Ethical Hacking** (Semester 3)  
-- **Web Application Penetration Testing** (Semester 3)
-- **Malware Analysis Tools and Techniques** (Semester 3)
-- **Fundamentals for IT Professionals III** (Semester 4)
+- **Network Security** (Y2S1)
+- **Ethical Hacking** (Y2S1)  
+- **Web Application Penetration Testing** (Y2S1)
+- **Malware Analysis Tools and Techniques** (Y2S1)
+- **Fundamentals for IT Professionals 3** (Y2S2)
 
 ## Connect With Me!
 - **GitHub:** [github.com/cloveryed](https://github.com/cloveryed)
