@@ -27,7 +27,7 @@ This portfolio demonstrates my growing expertise in cybersecurity through hands-
 
 ## Assignment Requirements
 This portfolio fulfills the requirements for:
-- Digital Portfolio Update (Fundamentals for IT Professionals III)
+- Digital Portfolio Update (Fundamentals for IT Professionals 3)
 - Evidence of enhanced course-related technical skills
 - Professional presentation of project work
 - Working links to project repositories and demonstrations
