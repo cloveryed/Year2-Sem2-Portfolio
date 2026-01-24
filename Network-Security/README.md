@@ -7,7 +7,7 @@
 **Technologies:** IPSec VPN, VLAN segmentation, Application-aware policies, Threat prevention profiles  
 
 ## Project Overview!
-- Conducted firewall comparison (Palo Alto vs Fortinet vs Cisco vs Sophos)
+- Firewall comparison 
 - Designed network architecture with DMZ, HR, IT, and Sales zones
 - Configured Palo Alto NGFW for both Singapore and KL offices
 - Implemented secure site-to-site VPN with IPSec/IKE
