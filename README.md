@@ -41,6 +41,6 @@ These projects were completed as part of:
 ## Connect With Me!
 - **GitHub:** [github.com/cloveryed](https://github.com/cloveryed)
 - **LinkedIn:** [LinkedIn](www.linkedin.com/in/cloe-lim-csf)
-- **Email:** [cloe.limys@gmail.com]
+- **Email:** cloe.limys@gmail.com
 
 *This portfolio is submitted as part of the Digital Portfolio Update assignment for Fundamentals for IT Professionals 3.*
