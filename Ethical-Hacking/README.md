@@ -30,6 +30,7 @@ Vulnerability exploitation • Post-exploitation • Lateral movement • Creden
 - Privilege escalation proof (payload)
   <img width="819" height="153" alt="image" src="https://github.com/user-attachments/assets/112b3ca0-4164-4d4c-8c98-d2e4566b3439" />
 - Pivoting / lateral movement evidence (socks proxy)
+
   <img width="602" height="216" alt="image" src="https://github.com/user-attachments/assets/6b808137-fd2d-45c2-b10a-d3f2ca032b1a" />
   
 ## Learning Outcomes
