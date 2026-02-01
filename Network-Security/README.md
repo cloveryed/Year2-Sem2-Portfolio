@@ -1,40 +1,38 @@
-# Network Security: Enterprise Firewall & VPN Implementation
+# 🔐 Network Security – Firewall & VPN Implementation
 
-**Course:** Network Security, Year 2 Sem 3  
-**Objective:** Design and implement a secure network architecture for a multinational company with offices in Singapore and Kuala Lumpur.  
-**Tools Used:** Palo Alto NGFW (PA-Series), VMware, Wireshark, Network Simulation  
-**Key Skills:** Next-Gen Firewall configuration, Site-to-Site VPN setup, Network segmentation, Security policy design, SSL decryption policies  
-**Technologies:** IPSec VPN, VLAN segmentation, Application-aware policies, Threat prevention profiles  
+## Project Overview
+This project demonstrates the design and implementation of a secure enterprise-style network using a Palo Alto Next-Generation Firewall. The lab simulates two office locations connected via a secure site-to-site VPN.
 
-## Project Overview!
-- Firewall comparison 
-- Designed network architecture with DMZ, HR, IT, and Sales zones
-- Configured Palo Alto NGFW for both Singapore and KL offices
-- Implemented secure site-to-site VPN with IPSec/IKE
-- Created granular security policies (application control, URL filtering, user access restrictions)
-- Configured SSL decryption with banking website exclusions
+## Objective
+To design a segmented network architecture and enforce security policies to control traffic between departments and external networks.
 
-## Key Configurations!
-- **Zone-based security architecture**
-- **Department-specific policies** (HR access to LinkedIn/Facebook, IT restrictions)
-- **Decryption policies** (inspect all traffic except banking websites)
-- **VPN configuration** with pre-shared keys and tunnel interfaces
-- **NAT policies** for internet access
-- **DHCP server configuration** for internal networks
+## Tools & Technologies
+- Palo Alto NGFW
+- VMware (Lab Environment)
+- Wireshark
+- IPSec VPN
+- VLAN Segmentation
 
-## Testing & Validation!
-- Verified inter-zone traffic routing
-- Tested VPN connectivity between SG and KL offices
-- Validated security policies (blocked/denied traffic as per requirements)
-- Confirmed SSL decryption working for non-banking sites
-- Tested application control (LinkedIn messaging blocked, Facebook chat restrictions)
+## What I Did
+- Designed a zone-based network architecture (DMZ, HR, IT, Sales)
+- Configured firewall security policies for inter-zone traffic control
+- Implemented a secure IPSec site-to-site VPN tunnel
+- Created NAT rules for internal users to access the internet
+- Configured SSL decryption policies with banking site exclusions
+- Tested application filtering (e.g. blocking messaging features)
 
-## Assignment Document!
-- [Full Assignment Report](./NS_Assignment_2025.docx)
+## Skills Demonstrated
+Firewall configuration • VPN setup • Network segmentation • Security policy design • Traffic inspection
 
-## Learning Outcomes!
-- Understanding of enterprise firewall selection criteria
-- Hands-on experience with Palo Alto NGFW configuration
-- Site-to-site VPN implementation skills
-- Network segmentation and policy design
-- Real-world testing and validation procedures
+## Screenshots
+- Firewall security policy screenshots
+   <img width="939" height="144" alt="image" src="https://github.com/user-attachments/assets/0b04f9bc-7b4a-4118-a280-15ad572675c1" />
+- NAT rule configuration
+  <img width="939" height="111" alt="image" src="https://github.com/user-attachments/assets/14d1a2f9-66cc-4961-9863-b4ff11ce53cd" />
+- SSL decryption policy
+  <img width="939" height="134" alt="image" src="https://github.com/user-attachments/assets/8a139d9d-1bfd-4b82-b48d-4d3e669c18dd" />
+
+## Learning Outcomes
+This project strengthened my understanding of enterprise firewall deployment, VPN configuration, and practical network segmentation strategies.
+
+This project was completed in a controlled lab environment for academic purposes.
